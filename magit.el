@@ -3047,6 +3047,7 @@ insert a line to tell how to insert more of them"
 		       "--decorate=full"
 		       "--max-count=1"
 		       "--pretty=medium"
+                       "--no-abbrev-commit"
 		       "--cc"
 		       "-p" commit)))
 
